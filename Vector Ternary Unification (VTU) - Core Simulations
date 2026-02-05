@@ -1,0 +1,22 @@
+# Vector Ternary Unification (VTU) - Core Simulations
+
+This repository contains the mathematical framework and astrophysical data scrubs 
+validating Vector Ternary Unification (VTU). 
+
+## Overview
+VTU resolves the **Hubble Tension** and the **Fine-Structure Constant ($\alpha$) Dipole** by modeling the vacuum as an 11-layer torsional logic stack.
+
+## Repository Contents
+- `/Data`: Cleaned Quasar absorption spectra and Laniakea Supercluster flow data.
+- `/Derivations`: LaTeX source for the VTU foundational paper.
+- `/Simulations`: Python/Julia scripts modeling the Universal Z-Axis and the 
+  Great Attractor Torsional Eddy.
+
+## Core Findings
+- **Z-Axis Orientation:** Calculated at $(\ell, b) \approx (220^\circ, -30^\circ)$.
+- **Torsional Drag ($T_q$):** A variable vacuum viscosity that accounts for 
+  non-recessional redshift.
+
+## License
+The theoretical framework is licensed under CC BY-NC 4.0. For inquiries regarding 
+local field engineering and material synthesis, contact the AlexisTechnologies.
